@@ -1,3 +1,24 @@
+Starting from June 13, 2018, Google's latest Chrome 7 no longer supports the manual installation method for CRX files.
+This has made it difficult for domestic users in China to install Chrome extensions smoothly.
+Additionally, users in mainland China cannot access the Chrome Web Store.
+To address this, we provide a source code installation method.
+
+Installation Steps:
+Open your Chrome browser and go to More Tools > Extensions.
+Alternatively, directly enter the following in the address bar: chrome://extensions/
+
+On this page, click "Load unpacked".
+
+Select the ghelper_source folder from the downloaded package.
+
+Confirm, and you're done.
+
+Additional Suggestions:
+After installing via the source code method, you can access Google once logged in. We recommend visiting the Chrome Web Store to find our official online version. This way, when we release updates, your local version will also be upgraded automatically. After installing the official online version, return to the extensions page and delete or disable the unpacked package you previously loaded.
+
+If you encounter any issues, feel free to email us at: GhelperInfo@gmail.com
+
+### Original ReadMe ###
 从2018年6月13日起,谷歌最新的Chrome 7 不再支持CRX手动安装方法.
 这样导至国内用户无法顺利安装Chrome扩展.
 大陆用户又无法访问Chrome应用商店.
@@ -13,4 +34,4 @@
 
 如果还有什么问题可以发邮件: GhelperInfo@gmail.com
 
-国内用户还可以用QQ浏览器，在它的应用中心可以直接安装.
+
